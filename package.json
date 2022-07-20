@@ -1,16 +1,13 @@
 {
   "name": "vue-cli-plugin-storybook",
-  "version": "3.0.1",
+  "version": "3.0.0",
   "description": "Vue CLI plugin for Storybook",
   "main": "./lib/index.js",
   "scripts": {
     "test": "bash test/test.sh",
     "lint": "eslint ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/storybookjs/vue-cli-plugin-storybook.git"
-  },
+  "repository": "git://github.com/alienrbuildinglink/vue-cli-plugin-storybook.git",
   "keywords": [
     "vue",
     "vue-cli",
