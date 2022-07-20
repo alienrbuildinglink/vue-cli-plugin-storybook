@@ -16,9 +16,9 @@
   "author": "Pavan Kumar Sunkara <pavan.sss1991@gmail.com> (pksunkara.github.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/storybookjs/vue-cli-plugin-storybook/issues"
+    "url": "https://github.com/alienrbuildinglink/vue-cli-plugin-storybook/issues"
   },
-  "homepage": "https://github.com/storybookjs/vue-cli-plugin-storybook#readme",
+  "homepage": "https://github.com/alienrbuildinglink/vue-cli-plugin-storybook#readme",
   "dependencies": {
     "@vue/cli-shared-utils": "^5.0.0-rc.1",
     "chalk": "^3.0.0",
